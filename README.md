@@ -1,4 +1,4 @@
-# Projects-Portfolio
+# Project Portfolio
 
 ## [SpaceShip Titanic - Kaggle](https://github.com/Adam96Valenta/SpaceShip_Titanic) [08-2022]
 
